@@ -6,4 +6,4 @@
 				💠Python
 - 💞️ I’m looking to collaborate on Vue projects
 - 📫 How to reach me:
-				🔹https://t.me/foxleren
+				🔹https://t.me/f
