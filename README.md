@@ -6,7 +6,7 @@ My name is Sergey Mokhov. I'm a student at the National Research University High
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxleren&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
-## :mortar_board: Educatio
+## :mortar_board: Education
 
 - **Secondary general education**<br />
 <sup>:date: *September 2016 – July 2021* :globe_with_meridians: *Moscow, Russia* </sup><br />
