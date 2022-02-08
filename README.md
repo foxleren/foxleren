@@ -1,10 +1,10 @@
-# About me :fox_face:
+# :fox_face: About me
 
 My name is Sergey Mokhov. I'm a student at the National Research University Higher School of Economics, Faculty of Computer Science, majoring in Software Engineering.
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=foxleren&hide=stars,prs,issues,contribs)](https://github.com/foxleren)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=foxleren&hide=prs,issues,contribs&theme=tokyonight)](https://github.com/foxleren)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxleren&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxleren&layout=compact&hide=css,html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :mortar_board: Educatio
 
