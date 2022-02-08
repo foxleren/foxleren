@@ -8,7 +8,7 @@ My name is Sergey Mokhov. I'm a student at the National Research University High
 
 - **Secondary general education**<br />
 <sup>:date: *September 2016 – July 2021* :globe_with_meridians: *Moscow, Russia* </sup><br />
-MPEI Lyceum, Mathematics and Informatics
+MPEI Lyceum 1502, Mathematics and Informatics
 
 
 - **Bachelor's degree**<br />
