@@ -2,4 +2,4 @@
 - 🎓 I'm a student of Higher School of Economics
 - 🌱 I’m currently learning💠C#
 - 💞️ I’m looking to collaborate on Vue projects
-- 📫 How to reach me:🔹https://t.me/foxleren
+- 📫 How to reach me: https://t.me/foxleren
