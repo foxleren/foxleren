@@ -2,7 +2,7 @@
 
 My name is Sergey Mokhov. I'm a student at the National Research University Higher School of Economics, Faculty of Computer Science, majoring in Software Engineering.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxleren&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## :mortar_board: Education
 
