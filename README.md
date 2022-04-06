@@ -18,7 +18,6 @@ Software Engeneering, FCS, HSE
 ## :computer: Skills
 
 ![CSharp](https://img.shields.io/badge/-CSharp-blueviolet?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/-Core-blue?style=for-the-badge&logo=.net&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-Asp.Net-grey?style=for-the-badge&logo=WWE&logoColor=white)
 ![WPF](https://img.shields.io/badge/-WPF-yellow?style=for-the-badge&logo=Windows&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-succsess?style=for-the-badge&logo=C%2b%2b&logoColor=white)
