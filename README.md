@@ -26,7 +26,7 @@ Software Engeneering, FCS, HSE
 
 ## 🤝 Contacts
 
-- **E-mail** <br />
+- **E-mail:** <br />
 samokhov@edu.hse.ru <br />
 foxleren@gmail.com
 
