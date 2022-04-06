@@ -15,6 +15,15 @@ MPEI Lyceum 1502, Mathematics and Informatics
 <sup>:date: *September 2021 – Present* :globe_with_meridians: *Moscow, Russia* </sup><br />
 Software Engeneering, FCS, HSE
 
+## :computer: Skills
+
+![CSharp](https://img.shields.io/badge/-CSharp-blueviolet?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/-Core-blue?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/-Asp.Net-grey?style=for-the-badge&logo=WWE&logoColor=white)
+![WPF](https://img.shields.io/badge/-WPF-yellow?style=for-the-badge&logo=Windows&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-succsess?style=for-the-badge&logo=C%2b%2b&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-critical?style=for-the-badge&logo=Python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=MySql&logoColor=white)
 
 ## 🤝 Contacts
 
