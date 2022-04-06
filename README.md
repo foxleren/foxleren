@@ -4,7 +4,7 @@ My name is Sergey Mokhov. I'm a student at the National Research University High
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxleren&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=adarunova)](https://github.com/adarunova)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=foxleren)](https://github.com/foxleren)
 
 ## :mortar_board: Education
 
