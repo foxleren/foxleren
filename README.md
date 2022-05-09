@@ -21,6 +21,8 @@ Software Engeneering, FCS, HSE
 ![CSharp](https://img.shields.io/badge/-CSharp-blueviolet?style=for-the-badge&logo=csharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/-Asp.Net-grey?style=for-the-badge&logo=WWE&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![C++](https://img.shields.io/badge/-C++-succsess?style=for-the-badge&logo=C%2b%2b&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-critical?style=for-the-badge&logo=Python&logoColor=white)
 ![WPF](https://img.shields.io/badge/-WPF-yellow?style=for-the-badge&logo=Windows&logoColor=white)
